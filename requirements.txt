@@ -1,0 +1,6 @@
+polars
+jupyterlab
+scipy
+seaborn
+opinionated
+pyarrow
