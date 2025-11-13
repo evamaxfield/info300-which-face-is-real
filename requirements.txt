@@ -1,6 +1,6 @@
-polars
+polars>=1
 jupyterlab
-scipy
-seaborn
-opinionated
-pyarrow
+scipy>=1
+seaborn>=0.13
+opinionated==0.0.3.0
+pyarrow>=20
